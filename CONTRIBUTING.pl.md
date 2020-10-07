@@ -40,7 +40,7 @@ Kod źródłowy w tym repozytorium został zdigitalizowany ręcznie na podstawie
 
 ## Przydatne rozszerzenia
 
-GitHub obsługuje składnię wbudowanego języka asemblera AGC. Niestety twój edytor kodu prawdopodobnie nie będzie go obsługiwał, jednak istnieją rozszerzenia języka AGC, które zapewniają podświetlanie składni dla następujących edytorów:
+GitHub obsługuje składnię wbudowanego języka asemblera AGC. Niestety twój edytor kodu prawdopodobnie nie będzie go obsługiwał, jednak istnieją rozszerzenia języka AGC, które zapewniają obsługę składni tego języka dla następujących edytorów:
 
 - [Atom][Atom]†
 - [CodeBlocks][CodeBlocks]
